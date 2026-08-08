@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------------------------------------------
+La programmation orienté object (POO)  Python
+---------------------------------------------------------------------------------------------------------------------
+
+
+classe: plan de conception,genre (ex: humain)
+object : instance de classe e(x: julien)
+
+attribut : variable de classe (ex: sexe,taille, age)
+propriete: maniere de manupuler les attributs (ex: lecture seul)
+
+methode : fonction de classe (ex: manger,boire,danser)
+methode de classe: fonction d'une classe 
+methode static : fonction dune classe mais de maniere static
+
+Heritage : classe fille qui herite d'une classe mere
+

@@ -1,0 +1,12 @@
+etudiant = {}
+etudiant["nom"]=input("Entrez votre nom: ")
+etudiant["prenom"]=input("Entrez votre prenom: ")
+etudiant["age"]=input("Entrez votre age: ")
+etudiant["filiere"]=input("Entrez votre filiere: ")
+print("Voici les informations contenant votre dictionnaire:\n")
+# print("Voici les informations contenant votre les cle du dictionnaire:\n")
+print(etudiant)
+print("Voici les informations contenant votre les cle du dictionnaire:\n")
+print(etudiant.keys())
+print("Voici les informations contenant votre les cle du dictionnaire:\n")
+print(etudiant.values())
